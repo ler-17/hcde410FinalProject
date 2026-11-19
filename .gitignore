@@ -221,3 +221,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Large datasets
+Final Project/gutenberg-poetry-v001.ndjson
+Final Project/gutenberg-metadata.json
+
+# Jupyter checkpoint files
+.ipynb_checkpoints/
